@@ -6,6 +6,9 @@
 <a href="http://cocoadocs.org/docsets/GSPlayer"><img src="https://img.shields.io/badge/Cocoapods-compatible-4BC51D.svg?style=flat"></a>
 <a href="https://github.com/wxxsw/GSPlayer/blob/master/LICENSE"><img src="http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat"></a>
 </p>
+## note
+
+我的播放器
 
 ## Features
 
