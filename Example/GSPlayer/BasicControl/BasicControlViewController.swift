@@ -18,7 +18,7 @@ class BasicControlViewController: UIViewController {
         super.viewDidLoad()
         
         playerView.contentMode = .scaleAspectFill
-        playerView.play(for: URL(string: "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4")!)
+        playerView.play(for: URL(string: "https://videochat.oss-cn-hangzhou.aliyuncs.com/trend/ce0a1319-7ffd-4f85-a9b2-e0a917e37b04.mp4")!)
         
         controlView.populate(with: playerView)
         view.bringSubviewToFront(controlView)
